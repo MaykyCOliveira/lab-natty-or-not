@@ -24,9 +24,9 @@ Testes e Validação: Testamos em cenários simulados e ambientes reais, ajustan
 Implementação: Docker e Kubernetes garantiram a escalabilidade. Monitoramos o desempenho com Grafana e Prometheus.
 
 ## 🚀 Resultados
-Detecção e Rastreamento Preciso: 95% de precisão na detecção e rastreamento contínuo.
-Predição de Trajetórias: Margem de erro mínima de 10 cm.
-Redução de Colisões: Diminuição de 30% nos incidentes potenciais e redução de 20% no tempo de resposta dos serviços de emergência.
+Detecção e Rastreamento Preciso: precisão na detecção e rastreamento contínuo.
+Predição de Trajetórias: Margem de erro mínima.
+Redução de Colisões: Diminuição nos incidentes potenciais e redução no tempo de resposta dos serviços de emergência.
 Integração Eficaz: Feedback positivo das autoridades sobre a precisão e eficiência dos alertas.
 Escalabilidade: Suporte para múltiplas cidades com operação consistente.
 
